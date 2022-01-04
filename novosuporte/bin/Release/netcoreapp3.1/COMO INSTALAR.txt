@@ -1,0 +1,10 @@
+BEM VINDO AO TUTORIAL DO LDA!
+
+Para instalar esse programa, abra a pasta "instalação" e faça o seguinte:
+
+- Copie o arquivo "chromedriver.exe" para a pasta "C:\Windows" do seu computador
+- Execute e instale o executavel "windowsdesktop-runtime-3.1.22-win-x64"
+- Cole a pasta "suportLog" (sem aspas) na pasta "C:\"
+
+Depois disso é só voltar para a pasta "programa" e executar o "novosuporte.exe"
+
