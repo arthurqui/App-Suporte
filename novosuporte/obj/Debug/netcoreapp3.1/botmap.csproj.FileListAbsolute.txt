@@ -1,0 +1,60 @@
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\bin\Debug\netcoreapp3.1\botmap.exe
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\bin\Debug\netcoreapp3.1\botmap.deps.json
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\bin\Debug\netcoreapp3.1\botmap.runtimeconfig.json
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\bin\Debug\netcoreapp3.1\botmap.runtimeconfig.dev.json
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\bin\Debug\netcoreapp3.1\botmap.dll
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\bin\Debug\netcoreapp3.1\botmap.pdb
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\obj\Debug\netcoreapp3.1\botmap.csproj.AssemblyReference.cache
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\obj\Debug\netcoreapp3.1\botmap.Form1.resources
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\obj\Debug\netcoreapp3.1\botmap.csproj.GenerateResource.cache
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\obj\Debug\netcoreapp3.1\botmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\obj\Debug\netcoreapp3.1\botmap.AssemblyInfoInputs.cache
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\obj\Debug\netcoreapp3.1\botmap.AssemblyInfo.cs
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\obj\Debug\netcoreapp3.1\botmap.csproj.CoreCompileInputs.cache
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\obj\Debug\netcoreapp3.1\botmap.dll
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\obj\Debug\netcoreapp3.1\botmap.pdb
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\obj\Debug\netcoreapp3.1\botmap.genruntimeconfig.cache
+C:\Users\Bruna Godoi\source\repos\botmap\botmap\obj\Debug\netcoreapp3.1\botmap.Properties.Resources.resources
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\botmap.exe
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\botmap.deps.json
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\botmap.runtimeconfig.json
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\botmap.runtimeconfig.dev.json
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\botmap.dll
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\botmap.pdb
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.csproj.AssemblyReference.cache
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.Form1.resources
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.Properties.Resources.resources
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.csproj.GenerateResource.cache
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.AssemblyInfoInputs.cache
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.AssemblyInfo.cs
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.csproj.CoreCompileInputs.cache
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.dll
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.pdb
+C:\Users\Bruna Godoi\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.genruntimeconfig.cache
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\botmap.exe
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\botmap.deps.json
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\botmap.runtimeconfig.json
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\botmap.runtimeconfig.dev.json
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\botmap.dll
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\botmap.pdb
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.Form1.resources
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.Properties.Resources.resources
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.AssemblyInfo.cs
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.dll
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.pdb
+C:\Users\hp\Desktop\botmap\nixmaps\botmap\obj\Debug\netcoreapp3.1\botmap.genruntimeconfig.cache

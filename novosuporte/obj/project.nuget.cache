@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3YrSxjljCMVXiv6tLVSDNurr27qaOiFvSVU73Zu02pSsyfh1UPNJEQswJoJGPOu31H5NbCLcUCDYl59v66ZJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arthur\\Desktop\\Novo Suporte\\novosuporte\\novosuporte\\novosuporte.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arthur\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512"
+  ],
+  "logs": []
+}
