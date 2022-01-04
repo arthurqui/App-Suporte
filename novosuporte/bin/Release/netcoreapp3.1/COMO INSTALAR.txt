@@ -1,4 +1,4 @@
-BEM VINDO AO TUTORIAL DO LDA!
+BEM VINDO AO TUTORIAL DO APP SUPORTE
 
 Para instalar esse programa, abra a pasta "instalação" e faça o seguinte:
 
