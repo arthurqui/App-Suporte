@@ -12,7 +12,7 @@ Enviando para o e-mail, os funcionários responsáveis pela manutenção serão 
 
 ![Alt](https://i.imgur.com/ITtvcTg.png)
 
-Além disso o programa também salva localmente um log escrito com nome, data e setor e ocorrência apresentada para que assim seja possivel
+Além disso o programa também salva localmente um log escrito com nome, data, setor e ocorrência apresentada para que assim seja possivel
 saber quais foram os problemas apresentados por aquela máquina.
 
 ![Alt](https://i.imgur.com/I97D29Y.png)
