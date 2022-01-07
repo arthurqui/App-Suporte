@@ -12,6 +12,7 @@ Enviando para o e-mail, os funcionários responsáveis pela manutenção serão 
 <p align="center">
 <img src="https://i.imgur.com/ITtvcTg.png">
 </p>
+
 Além disso o programa também salva localmente um log escrito com nome, data, setor e ocorrência apresentada para que assim seja possivel
 saber quais foram os problemas apresentados por aquela máquina.
 
