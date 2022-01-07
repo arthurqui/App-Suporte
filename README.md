@@ -20,4 +20,4 @@ saber quais foram os problemas apresentados por aquela máquina.
 </p>
 
 🖥️ Para Instalar baixe a pasta netcoreapp3.1 no endereço \Novo Suporte\novosuporte\novosuporte\bin\Release\ desse repositório,
-nessa pasta existe um tutorial de como instalar corretamente. 
+nessa pasta existe um tutorial de como instalar corretamente.  
