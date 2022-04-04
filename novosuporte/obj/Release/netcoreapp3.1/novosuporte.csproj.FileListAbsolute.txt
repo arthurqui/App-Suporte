@@ -19,3 +19,36 @@ C:\Users\Arthur\Desktop\Novo Suporte\novosuporte\novosuporte\obj\Release\netcore
 C:\Users\Arthur\Desktop\Novo Suporte\novosuporte\novosuporte\obj\Release\netcoreapp3.1\novosuporte.pdb
 C:\Users\Arthur\Desktop\Novo Suporte\novosuporte\novosuporte\obj\Release\netcoreapp3.1\novosuporte.genruntimeconfig.cache
 C:\Users\Arthur\Desktop\Novo Suporte\novosuporte\novosuporte\obj\Release\netcoreapp3.1\novosuporte.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\novosuporte.exe
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\novosuporte.deps.json
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\novosuporte.runtimeconfig.json
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\novosuporte.runtimeconfig.dev.json
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\novosuporte.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\novosuporte.pdb
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\AngleSharp.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\WebDriver.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\WebDriverManager.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\obj\Release\netcoreapp3.1\novosuporte.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\App-Suporte\novosuporte\obj\Release\netcoreapp3.1\botmap.Form1.resources
+C:\Users\hp\Desktop\App-Suporte\novosuporte\obj\Release\netcoreapp3.1\novosuporte.Properties.Resources.resources
+C:\Users\hp\Desktop\App-Suporte\novosuporte\obj\Release\netcoreapp3.1\novosuporte.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\App-Suporte\novosuporte\obj\Release\netcoreapp3.1\novosuporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\App-Suporte\novosuporte\obj\Release\netcoreapp3.1\novosuporte.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\App-Suporte\novosuporte\obj\Release\netcoreapp3.1\novosuporte.AssemblyInfo.cs
+C:\Users\hp\Desktop\App-Suporte\novosuporte\obj\Release\netcoreapp3.1\novosuporte.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\App-Suporte\novosuporte\obj\Release\netcoreapp3.1\novosuporte.dll
+C:\Users\hp\Desktop\App-Suporte\novosuporte\obj\Release\netcoreapp3.1\novosuporte.pdb
+C:\Users\hp\Desktop\App-Suporte\novosuporte\obj\Release\netcoreapp3.1\novosuporte.genruntimeconfig.cache

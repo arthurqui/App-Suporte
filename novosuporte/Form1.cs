@@ -27,20 +27,17 @@ namespace botmap
             //-----------------------LEMBRAR DE COLOCAR AS SENHAS QUE ESTÃO FALTANDO ANTES DE BUILDAR OU RODAR--------------------------
 
             //Credenciais Klist, pode ser qualquer conta.
-            string email = "arthur.quintanilha@hotmail.com";
-            string senhaklist = "";
-
-
-            //Credenciais conta google (que vai enviar o email).
-            string email2 = "delfos.suporteinterno@gmail.com";
-            string senhaemail = ""; // (senha do root)
-            
-            //Lista de emails que vão receber o chamado. (emails separados por virgulas, sempre manter uma no final)
-            string listaemailsti = "arthur.quintanilha@hotmail.com,";
-
-
+            string email = "agendarennova@gmail.com";
+            string senhaklist = "delf0sTI";
 
             //---------------------------------------------------------------------------------------------------------------------------
+
+            string pastaStatus = @"c:\suportLog";//string para endereço da onde a pasta vai ser criada
+            if (!Directory.Exists(pastaStatus))// Se a pasta não existir ele cria
+            {
+                Directory.CreateDirectory(pastaStatus);
+            }
+
 
 
             //Entra no google 
@@ -88,6 +85,7 @@ namespace botmap
             SeleniumMetodos.clickPorClasse(driver, "ms-Checkbox-checkmark"); //permanecer conectado
                 SeleniumMetodos.clickPorClasse(driver, "ms-Button--primary"); //botão de logar
 
+            SeleniumMetodos.clickPorId(driver, "input-task");
 
             //preenche o campo do suporte
             char[] textosuporte = pesquisa.ToCharArray();
@@ -101,7 +99,7 @@ namespace botmap
             //envia o suporte
             SeleniumMetodos.clickPorClasse(driver, "ContentPage_submit_2LplJyFqAT");
 
-
+            /*
             FuncoesUteis.pausa(2000);
             SeleniumMetodos.navegarPara(driver, "https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin");
 
@@ -239,7 +237,7 @@ namespace botmap
 
 
 
-            }
+            }*/
 
 
             //salvar variaveis em arquivo TXT

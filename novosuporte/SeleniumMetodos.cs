@@ -11,6 +11,7 @@ using OpenQA.Selenium.Chrome;
 using System.Windows.Forms;
 using Keys = OpenQA.Selenium.Keys;
 using System.Collections.ObjectModel;
+using WebDriverManager.DriverConfigs.Impl;
 
 //using Actions = OpenQA.Selenium.Interactions.Actions;
 
@@ -24,13 +25,13 @@ namespace NixPDC
             IWebDriver driver;
             try
             {
-                var chromeOptions = new ChromeOptions();
-                //chromeOptions.AddArguments("headless");//começar minimizado
+                new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
+                ChromeOptions chromeOptions = new ChromeOptions();
+                chromeOptions.AddArguments("headless");//começar minimizado
                 chromeOptions.AddArguments("--start-maximized");//começar maximizado
                 chromeOptions.AddArguments("--disable-blink-features");
                 chromeOptions.AddArguments("--disable-blink-features=AutomationControlled");
                 chromeOptions.AddExcludedArgument("enable-automation");//tirar barra de automação do chrome driver 
-                chromeOptions.AddAdditionalCapability("useAutomationExtension", false);//tirar barra de automação do chrome driver 
 
 
                 chromeOptions.AddUserProfilePreference("download.default_directory", Constantes.path);
